@@ -5,6 +5,10 @@ __pycache__/
 
 cookies.pkl
 .progress.txt
+
+# Scan output database — may contain live API keys; never commit
+github.db
+*.db
 # C extensions
 *.so
 
